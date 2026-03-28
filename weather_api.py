@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "3882e2fa56da57ce9576a46e10993dd0"
+API_KEY = "########################3"
 
 def get_weather(lat, lon):
 
